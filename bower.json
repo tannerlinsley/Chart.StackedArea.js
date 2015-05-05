@@ -1,0 +1,13 @@
+{
+    "name": "Chart.StackedArea.js",
+    "version": "1.0.0",
+    "description": "StackedArea implementation for Chart.js",
+    "homepage": "https://github.com/nnnick/Chart.js",
+    "author": ["Regaddi", "tannerlinsley"],
+    "main": [
+        "src/Chart.StackedArea.js"
+    ],
+    "dependencies": {
+        "Chart.js": ">= 1.0.0-beta"
+    }
+}
